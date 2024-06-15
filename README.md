@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princeessjay
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning Back-End development
+- 🌱 I’m currently learning Back-End development and DSA 
 - 💞️ I’m looking to collaborate on Front-End development projects
 - 📫 How to reach me -- https://x.com/vikaskashyapro6 [x]  , https://www.linkedin.com/in/vikas-kashyap-02748122a/ [LinkedIn] , +918542050782 [Whatsapp]
 - 😄 Pronouns: He/Him
